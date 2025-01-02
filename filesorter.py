@@ -1,4 +1,4 @@
-program_description: str = "BatchRename by Evgeny A. Maltsev (yevmal@gmail.com)"
+program_description: str = "FileSorter by Evgeny A. Maltsev (yevmal@gmail.com)"
 program_version: str = "0.0.1"
 
 
